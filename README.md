@@ -50,14 +50,5 @@ Learner | Web Development | Cybersecurity | CTF
 
 ---
 
-### 🐍 Contribution Activity
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VarshankNaik/VarshankNaik/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VarshankNaik/VarshankNaik/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/VarshankNaik/VarshankNaik/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
+  ![snake gif](https://github.com/VarshankNaik/VarshankNaik/blob/output/github-snake-dark.svg)
