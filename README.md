@@ -50,5 +50,5 @@ Learner | Web Development | Cybersecurity | CTF
 
 ---
 
+<!-- ![snake gif](https://github.com/VarshankNaik/VarshankNaik/blob/output/github-snake-dark.svg) -->
 
-  ![snake gif](https://github.com/VarshankNaik/VarshankNaik/blob/output/github-snake-dark.svg)
